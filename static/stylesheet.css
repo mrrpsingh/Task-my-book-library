@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(194, 234, 238);
+    text-align: center;
+    
+}
+.table
+{
+    border: 1px solid rgb(53, 53, 53);
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+h1{
+    text-align: center;
+    border-radius: 10px; 
+}
+
+
+th,
+td {
+    border: 1px solid rgb(53, 53, 53);
+    width:50%;
+    text-align: justify;
+}
+.button{
+    text-align: center;
+    border-radius: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ 
+}
